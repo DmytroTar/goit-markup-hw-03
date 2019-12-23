@@ -1,0 +1,37 @@
+body {
+  background-color: #ffffff;
+  color: #626262;
+  font-family: Playfair Display;
+}
+
+.page-header {
+  background-color: #ffffff;
+}
+.site-nav .link {
+  font-size: 14px;
+  line-height: 1.2;
+  color: #2196f3;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #626262;
+}
+
+.hero .title {
+  font-size: 30px;
+  line-height: 1.2;
+  color: #626262;
+}
+.hero .signature {
+  font-size: 14px;
+  line-height: 1.2;
+  font-family: Ubuntu;
+  color: #b4ad9e;
+}
+.hero .button {
+  font-size: 20px;
+  line-height: 1.2;
+  font-family: inherit;
+  cursor: pointer;
+  color: #626262;
+}
